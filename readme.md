@@ -51,6 +51,8 @@ JPEvents simplifies event management on your WordPress site. It provides tools t
 - **Custom Post Type for Events**: Easily create and manage events.
 - **Event Categories**: Organize events into categories for easier management.
 - **Customizable Templates**: Adjust the appearance of events on your site.
+- **Enhanced Search**: The plugin extends the default WordPress search to include custom fields, ensuring that all event-related information is searchable for more comprehensive results.
+- **Automated Event Import**: JPEvents is equipped with a cron job that automatically imports events from external sources. It is set to retrieve data regularly from `https://www.bcfc.co.uk/wp-json/afz/v1/fixtures?status=fixture`, ensuring your events list stays up-to-date with the latest fixtures.
 
 ## Template Overrides
 
