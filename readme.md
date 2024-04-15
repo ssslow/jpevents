@@ -11,7 +11,7 @@ JPEvents simplifies event management on your WordPress site. It provides tools t
 ### Install and Activate the Plugin
 
 - **Download the Plugin**:
-  Visit [My Plugin Page](https://mypluginpage.com/download) to download the latest version of the JPEvents plugin.
+  Visit [JPEvents on GitHub](https://github.com/ssslow/jpevents) to download the latest version of the JPEvents plugin.
 
 - **Upload and Activate**:
   - Go to your WordPress dashboard, navigate to `Plugins` > `Add New` > `Upload Plugin`.
