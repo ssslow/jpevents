@@ -20,6 +20,8 @@
                 <div class="event-image">
                     <?php if ( $event_image ): ?>
                         <img src="<?php echo esc_url($event_image); ?>" alt="<?php the_title_attribute(); ?>" class="featured-image">
+                    <?php elseif ( has_post_thumbnail() ) : ?>
+                        <?php the_post_thumbnail( 'full', ['class' => 'featured-image'] ); ?>
                     <?php endif; ?>
                 </div>
                 <div class="event-details">
